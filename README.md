@@ -1,7 +1,5 @@
 # Driver-drowsiness-detection
 
-# Driver Drowsiness Detection
-
 This project implements a real-time Driver Drowsiness Detection system using computer vision and deep learning. It utilizes YOLOv8 for face detection and computes Eye Aspect Ratio (EAR) and Mouth Aspect Ratio (MAR) from facial landmarks to detect signs of drowsiness such as eye closure and yawning.
 
 ## Features
